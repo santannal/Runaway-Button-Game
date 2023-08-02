@@ -1,0 +1,47 @@
+body {
+    background-image: url(../imagens/fundo.jpg);
+    margin-top: 110px;
+}
+
+.painel {
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 10px solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+#sim {
+    height: 40px;
+    width: 100px;
+    background-color: blueviolet;
+    border-radius: 7px;
+    color: white;
+    margin-left: -115px;
+    padding: 2px;
+    border: 20px solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+#nao {
+    position: absolute;
+    margin-left: 70px;
+    height: 40px;
+    width: 100px;
+    background-color: blueviolet;
+    border: black;
+    border-radius: 7px;
+    color: white;
+    margin-left: 10px;
+    padding: 2px;
+    border: 20px solid;
+    border-color: black;
+    border-width: 1px;
+}
